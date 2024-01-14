@@ -1,18 +1,17 @@
 {
-  "name": "npmapi",
+  "name": "@utrosh/npmapi",
   "version": "1.0.0",
   "description": "A util module to connect with nginx proxy manager api",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "exit 0"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/UTrosh/npmapi.git"
   },
   "keywords": [
-    "nginxproxymanager",
-    "api"
+    "nginxproxymanager"
   ],
   "author": "UTrosh",
   "license": "ISC",
