@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/UTrosh/npmapi/issues"
   },
-  "homepage": "https://github.com/UTrosh/npmapi#readme"
+  "homepage": "https://github.com/UTrosh/npmapi#readme",
+  "publishConfig": {
+    "@utrosh:registry": "https://npm.pkg.github.com"
+  }
 }
