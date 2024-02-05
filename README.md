@@ -34,3 +34,13 @@ npapiInstance.login()
 ```
 
 Every methods are using refs/components of the nginx proxy manager api, you can find it at https://github.com/NginxProxyManager/nginx-proxy-manager/blob/develop/backend/doc/api.swagger.json#L1104
+
+## Contributions:
+Contributions and feedback are welcome! If you have ideas for improvements or encounter issues, please feel free to open an issue or submit a pull request.
+
+## License:
+This project is licensed under the MIT License.
+
+## Author:
+UTrosh - Main Developper
+https://github.com/NginxProxyManager/nginx-proxy-manager/ - Nginx Proxy Manager
