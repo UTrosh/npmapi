@@ -1,6 +1,6 @@
 {
-  "name": "@utrosh/nginxproxymanager",
-  "version": "1.0.0",
+  "name": "@utrosh/npmapi",
+  "version": "1.0.2",
   "description": "A util module to connect with nginx proxy manager api",
   "main": "index.js",
   "scripts": {
