@@ -37,21 +37,6 @@ class NPMAPI {
     }
 
     /**
-     * @returns {Promise<string>} Token - Resolve with the refreshed token if successful, reject with an error if failed
-     */
-    refresh() {
-        return new Promise(async (resolve, reject) => {
-            try {
-                const response = await axios.get(`${this.apiurl}/tokens`, {headers: {Authorization: `Bearer ${this.getToken()}`}});
-                this.token = response.data.token;
-                resolve(this.token);
-            } catch (e) {
-                reject(e);
-            }
-        });
-    }
-
-    /**
      * @returns {string} Token - Return the current token
      */
     getToken() {
