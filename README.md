@@ -42,5 +42,5 @@ Contributions and feedback are welcome! If you have ideas for improvements or en
 This project is licensed under the MIT License.
 
 ## Author:
-UTrosh - Main Developper
-https://github.com/NginxProxyManager/nginx-proxy-manager/ - Nginx Proxy Manager
+* UTrosh - Main Developper
+* https://github.com/NginxProxyManager/nginx-proxy-manager/ - Nginx Proxy Manager
